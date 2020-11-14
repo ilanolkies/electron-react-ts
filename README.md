@@ -24,44 +24,44 @@
 - Tests with [`ts-jest`](https://github.com/kulshekhar/ts-jest) and [Enzyme](https://enzymejs.github.io/enzyme/)
 - Styles with [Sass](https://sass-lang.com/)
 
-## Install dependencies
+### Install dependencies
 
 ```
 npm i
 ```
 
-## Run
+### Run
 
 ```
 npm run dev
 ```
 
-## Lint
+### Lint
 
 ```
 npm run lint
 npm run lint:fix
 ```
 
-## Test
+### Test
 
 ```
 npm test
 npm test:watch
 ```
 
-## Build
+### Build
 
 ```
 npm run build
 ```
 
-## Distribute
+### Distribute
 
 ```
 npm run dist
 ```
 
-## Workflows
+### Workflows
 
 Runs lint, test and build in [Github actions](https://github.com/features/actions)
