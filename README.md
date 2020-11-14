@@ -31,8 +31,8 @@
 - Checks code syntax with [ESlint](https://eslint.org/) and [`standard-with-typescript`](https://github.com/standard/eslint-config-standard-with-typescript)
 - Tests with [`ts-jest`](https://github.com/kulshekhar/ts-jest) and [Enzyme](https://enzymejs.github.io/enzyme/)
 - Styles with [Sass](https://sass-lang.com/)
-
-Runs lint, test and build in [Github actions](https://github.com/features/actions). Uses [Coveralls](https://coveralls.io/) coverage reports.
+- Runs lint, test and build in [Github actions](https://github.com/features/actions)
+- Collects [Coveralls](https://coveralls.io/) coverage reports.
 
 ### Quick start
 
