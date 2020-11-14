@@ -23,11 +23,7 @@
   </a>
 </p>
 
-1. Click on _use this teamplate_ on the top right corner
-2. Update README badges urls
-3. [Install dependencies](#install-dependencies) and [run](#run) the app!
-
-### Features
+![front](front.png)
 
 - Compiles [Typescript](https://www.typescriptlang.org/)
 - Builds [React.js](https://reactjs.org/) with [`webpack`](https://webpack.js.org/)
@@ -35,6 +31,14 @@
 - Checks code syntax with [ESlint](https://eslint.org/) and [`standard-with-typescript`](https://github.com/standard/eslint-config-standard-with-typescript)
 - Tests with [`ts-jest`](https://github.com/kulshekhar/ts-jest) and [Enzyme](https://enzymejs.github.io/enzyme/)
 - Styles with [Sass](https://sass-lang.com/)
+
+Runs lint, test and build in [Github actions](https://github.com/features/actions). Uses [Coveralls](https://coveralls.io/) coverage reports.
+
+### Quick start
+
+1. Click on _use this teamplate_ on the top right corner
+2. Update README badges urls
+3. [Install dependencies](#install-dependencies) and [run](#run) the app!
 
 ### Install dependencies
 
@@ -73,7 +77,3 @@ npm run build
 ```
 npm run dist
 ```
-
-### Workflows
-
-Runs lint, test and build in [Github actions](https://github.com/features/actions). Uses [Coveralls](https://coveralls.io/) coverage reports.
