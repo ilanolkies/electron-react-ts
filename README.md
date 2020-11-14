@@ -9,6 +9,9 @@
   <a href="https://lgtm.com/projects/g/ilanolkies/electron-react-ts/context:javascript">
     <img src="https://img.shields.io/lgtm/grade/javascript/github/ilanolkies/electron-react-ts" />
   </a>
+  <a href='https://coveralls.io/github/ilanolkies/electron-react-ts?branch=main'>
+    <img src='https://coveralls.io/repos/github/ilanolkies/electron-react-ts/badge.svg?branch=main' alt='Coverage Status' />
+  </a>
 </p>
 
 Electron + React.js + Typescript template
