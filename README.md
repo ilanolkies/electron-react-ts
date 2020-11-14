@@ -1,5 +1,8 @@
 <h3 align="middle"><code>electron-react-ts</code></h3>
 <p align="middle">
+  Electron + React.js + Typescript template
+</p>
+<p align="middle">
   <a href="https://github.com/ilanolkies/electron-react-ts/actions?query=workflow%3Aci">
     <img src="https://github.com/ilanolkies/electron-react-ts/workflows/ci/badge.svg" />
   </a>
@@ -13,8 +16,6 @@
     <img src='https://coveralls.io/repos/github/ilanolkies/electron-react-ts/badge.svg?branch=main' alt='Coverage Status' />
   </a>
 </p>
-
-Electron + React.js + Typescript template
 
 - Compiles [Typescript](https://www.typescriptlang.org/)
 - Builds [React.js](https://reactjs.org/) with [`webpack`](https://webpack.js.org/)
