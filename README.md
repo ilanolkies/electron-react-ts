@@ -1,7 +1,9 @@
 <h3 align="middle"><code>electron-react-ts</code></h3>
+
 <p align="middle">
   Electron + React.js + Typescript template
 </p>
+
 <p align="middle">
   <a href="https://github.com/ilanolkies/electron-react-ts/actions?query=workflow%3Aci">
     <img src="https://github.com/ilanolkies/electron-react-ts/workflows/ci/badge.svg" />
@@ -23,7 +25,9 @@
   </a>
 </p>
 
-![front](front.png)
+<p align="middle">
+  <img src="front.png" />
+</p>
 
 - Compiles [Typescript](https://www.typescriptlang.org/)
 - Builds [React.js](https://reactjs.org/) with [`webpack`](https://webpack.js.org/)
