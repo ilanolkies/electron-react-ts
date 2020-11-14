@@ -23,3 +23,5 @@ jobs:
     - run: npm run build
     - name: Coveralls
       uses: coverallsapp/github-action@master
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
