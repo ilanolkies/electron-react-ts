@@ -6,6 +6,9 @@
   <a href="https://github.com/ilanolkies/electron-react-ts/actions?query=workflow%3Aci">
     <img src="https://github.com/ilanolkies/electron-react-ts/workflows/ci/badge.svg" />
   </a>
+  <a href="https://github.com/ilanolkies/electron-react-ts/actions?query=workflow%3ACodeQL">
+    <img src="https://github.com/ilanolkies/electron-react-ts/workflows/CodeQL/badge.svg" />
+  </a>
   <a href="https://lgtm.com/projects/g/ilanolkies/electron-react-ts/?mode=list">
     <img src="https://img.shields.io/lgtm/alerts/github/ilanolkies/electron-react-ts" />
   </a>
