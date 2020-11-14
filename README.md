@@ -17,6 +17,12 @@
   </a>
 </p>
 
+1. Click on _use this teamplate_ on the top right corner
+2. Update README badges urls
+3. [Install dependencies](#install-dependencies) and [run](#run) the app!
+
+### Features
+
 - Compiles [Typescript](https://www.typescriptlang.org/)
 - Builds [React.js](https://reactjs.org/) with [`webpack`](https://webpack.js.org/)
 - Runs on [Electron](https://www.electronjs.org/)
