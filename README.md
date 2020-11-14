@@ -26,20 +26,11 @@
 
 ## Install dependencies
 
-Use
-
-- Node.js `v10.22.0`
-- npm `v6.14.8`
-
-Run
-
 ```
 npm i
 ```
 
 ## Run
-
-In one terminal
 
 ```
 npm run dev
