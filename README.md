@@ -64,4 +64,4 @@ npm run dist
 
 ### Workflows
 
-Runs lint, test and build in [Github actions](https://github.com/features/actions)
+Runs lint, test and build in [Github actions](https://github.com/features/actions). Uses [Coveralls](https://coveralls.io/) coverage reports.
